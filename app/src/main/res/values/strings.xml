@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight (Kilogram)</string>
+    <string name="height">Height (Centimeter)</string>
+    <string name="calc">Calculate</string>
+
+    <string name="underweight_level_3">You are underweight</string>
+    <string name="underweight_level_2">You should eat more</string>
+    <string name="underweight_level_1">You seem to be near normal weight</string>
+    <string name="balance">You have usual BMI as per standard</string>
+    <string name="overweight_start">You should lose your weight</string>
+    <string name="overweight_level_1">You have gained much weight</string>
+    <string name="weight_in_kg">Weight(weight in kg)</string>
+    <string name="height_in_cm">Height(height in cm)</string>
+</resources>
